@@ -7,5 +7,6 @@
 </head>
 <body>
     <h1>Pagina de RC</h1>
+    <p>segundo dia</p>
 </body>
 </html>
